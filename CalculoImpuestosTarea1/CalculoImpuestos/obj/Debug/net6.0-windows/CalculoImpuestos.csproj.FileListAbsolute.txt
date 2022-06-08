@@ -1,0 +1,17 @@
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\bin\Debug\net6.0-windows\CalculoImpuestos.exe
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\bin\Debug\net6.0-windows\CalculoImpuestos.deps.json
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\bin\Debug\net6.0-windows\CalculoImpuestos.runtimeconfig.json
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\bin\Debug\net6.0-windows\CalculoImpuestos.dll
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\bin\Debug\net6.0-windows\CalculoImpuestos.pdb
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.csproj.AssemblyReference.cache
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.Form1.resources
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.csproj.GenerateResource.cache
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.AssemblyInfoInputs.cache
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.AssemblyInfo.cs
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.dll
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\refint\CalculoImpuestos.dll
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.pdb
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\CalculoImpuestos.genruntimeconfig.cache
+D:\VisualStudio\CalculoImpuestosTarea1\CalculoImpuestos\obj\Debug\net6.0-windows\ref\CalculoImpuestos.dll
